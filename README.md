@@ -15,7 +15,7 @@ A modern, comprehensive mobile wellness companion designed for Android. It enabl
   Google Fit API
   Jetpack Compose
 
-👨‍💻 Developer Contact
+👨‍💻 Developer Contact :
 Dev Rathod Android Developer
 GitHub: https://github.com/Devrathod29
     
